@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="RpKhI6d6wNOcKjZSJTQM">
-    <mxGraphModel dx="1985" dy="957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,17 +51,6 @@
         </mxCell>
         <mxCell id="VtKAQGNe-kj4Iec5nqkR-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="251" y="1017" as="geometry" />
-        </mxCell>
-        <mxCell id="VtKAQGNe-kj4Iec5nqkR-15" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="100" as="geometry">
-            <Array as="points">
-              <mxPoint x="9" y="405" />
-              <mxPoint x="15" y="845" />
-              <mxPoint x="218" y="845" />
-            </Array>
-            <mxPoint x="-181" y="405" as="sourcePoint" />
-            <mxPoint x="218" y="1074" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
